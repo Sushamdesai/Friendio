@@ -3,10 +3,10 @@ Friendio is a robust social media application developed using the PERN stack (Po
 
 ### Features
 User Authentication: Secure login and registration system. <br />
-Picture Sharing: Users can post and share pictures.
-Interactivity: Users can like and comment on posts and pictures.
-Technologies Used
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: PostgreSQL
-Styling: Tailwind CSS
+Picture Sharing: Users can post and share pictures. <br />
+Interactivity: Users can like and comment on posts and pictures. <br />
+Technologies Used <br />
+Frontend: React.js <br />
+Backend: Node.js, Express.js <br />
+Database: PostgreSQL <br />
+Styling: Tailwind CSS <br />
